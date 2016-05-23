@@ -1,0 +1,12 @@
+﻿  main_game.cpp
+c:\users\a.ryjov\documents\visual studio 2015\projects\проект1\проект1\main_character.h(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\a.ryjov\documents\visual studio 2015\projects\проект1\проект1\main_character.h(31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\a.ryjov\documents\visual studio 2015\projects\проект1\проект1\main_game.cpp(73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  main_menu.cpp
+c:\users\a.ryjov\documents\visual studio 2015\projects\проект1\проект1\main_menu.cpp(15): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\a.ryjov\documents\visual studio 2015\projects\проект1\проект1\main_menu.cpp(19): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\a.ryjov\documents\visual studio 2015\projects\проект1\проект1\main_menu.cpp(23): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Проект1.vcxproj -> C:\Users\a.ryjov\Documents\Visual Studio 2015\Projects\Проект1\Debug\DungeonGame.exe
+  Проект1.vcxproj -> C:\Users\a.ryjov\Documents\Visual Studio 2015\Projects\Проект1\Debug\DungeonGame.pdb (Partial PDB)
