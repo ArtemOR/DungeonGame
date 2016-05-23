@@ -45,11 +45,12 @@ main_game::main_game()
 
 void main_game::LoadLevel(int levelData[])
 {
+	//create a test map
 	for (int y = 0; y < 15; y++)
 	{
 		for (int x = 0; x < 20; x++)
 		{
-
+			
 			std::string name = "";
 			switch (levelData[x + y * 20])
 			{
